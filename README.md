@@ -1,4 +1,4 @@
-![banner](https://i.imgur.com/EDCQlVM.png)
+![banner](https://i.imgur.com/BL8f4WP.png)
 # KEYAKI's PROFILE
 ### 📑 Sumary
 - Computer Engineering Student 💻
