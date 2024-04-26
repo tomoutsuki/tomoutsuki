@@ -4,7 +4,7 @@
 <img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" width="1px">
 <a href="mailto:outsuki.tom@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" width="1px">
-<a href="https://www.instagram.com/keyakihq/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-instagram-7f38c1?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noreferrer"></a>
+<a href="https://www.instagram.com/tomoutsuki/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-instagram-7f38c1?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noreferrer"></a>
 <img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" width="1px">
 <a href="https://www.youtube.com/MYMix" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" rel="noreferrer"></a>
 
@@ -44,9 +44,9 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p> <br>
 
 ## 🌐 Worldwide Languages
-| Languageㅤㅤㅤㅤㅤㅤ| Levelㅤㅤㅤㅤㅤㅤ| Certificationㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ|
+| Languageㅤㅤㅤㅤㅤㅤ| Levelㅤㅤㅤㅤㅤ| Certificationㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ|
 |-----------------|--------------|--------------------------------|
 | 🇯🇵 Japanese     | Native       | JLPT N1                        |
 | 🇧🇷 Portuguese   | Native       | -                              |
-| 🇬🇧 English      | Intermediate | -                              |
+| 🇬🇧 English      | Advanced     | TOEIC 805                      |
 | 🇪🇸 Spanish      | Intermediate | -                              |
